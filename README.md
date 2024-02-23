@@ -47,8 +47,8 @@ Other insights and my final considerations can be seen on the notebook provided.
 
 This repository has  the following files/folders: 
 - Notebook: the R Notebook done in Google Colab with codes  I've done to clean and analyze
-- Visualization: includes the .pbix file with the visuals I've done for the analysis and presentation.
-- Presentation: the final presentation file to be delivered to the stakeholders, both marketing and executive team.
+- Visualization: includes images from the .pibx file I've done for the analysis and presentation.
+
 
 ## ✅ Recommendations
 
