@@ -7,7 +7,7 @@ In this study I'll analyze historical data from a bike-shared company based in C
 
 * [Data sources](#-data-sources)
 * [Insights](#-insights)
-* [Files](#-files)
+* [Files](#%EF%B8%8F-files)
 * [Recommendations](#-recommendations)
 
 ## 💻 Data Sources
